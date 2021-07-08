@@ -13,7 +13,6 @@ import {
 import Connector from "./Connector.jsx";
 import Toolbar from "./Toolbar.js";
 
-import "./Graphics.css";
 
 class TransformerComponent extends React.Component {
   componentDidMount() {
